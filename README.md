@@ -11,6 +11,7 @@ Publicly available dataset for bioinformatics and integrative -omics research (o
 ## Transcriptomics
 - [Geuvadis RNA sequencing project](http://www.geuvadis.org/web/geuvadis/RNAseq-project)  
 → [Available in convenient RData format from the Leek lab](http://jtleek.com/data/)  
+- [GTEx](http://www.gtexportal.org/home/)
 - [ReCount](http://bowtie-bio.sourceforge.net/recount/)  
 - [Single Cell Analysis Program – Transcriptome Project](http://scap-t.org/)
 - [Stanford microarray database](http://smd.princeton.edu/)  
