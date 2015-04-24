@@ -1,4 +1,4 @@
-# Great Public Bioinformatics Datasets
+# Public Bioinformatics Datasets
 Publicly available dataset for bioinformatics and integrative -omics research (on-going)
 
 ## Genomics
